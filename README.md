@@ -1,1 +1,2 @@
-# css2024_day01_files
+# 
+welcome to the coding summer school
